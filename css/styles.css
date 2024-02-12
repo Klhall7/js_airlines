@@ -1,0 +1,22 @@
+html {
+    font-family:'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+div {
+    margin:20px;
+}
+
+fieldset label, 
+fieldset button {
+    margin-left: 20px;
+}
+
+fieldset input {
+    min-width:120px;
+    max-width: fit-content;
+}
+
+.searchInput {
+    min-width: 160px;
+}
